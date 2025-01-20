@@ -1,9 +1,3 @@
-# Unit Testing Overview
-
-Unit testing is a crucial part of software development as it helps catch defects early in the process, reduces costs, improves code quality, and facilitates refactoring.
-
----
-
 ## Introduction
 
 A **unit test** is a way of testing the smallest piece of code that can be logically isolated in a software application. Unit testing is the first level of testing done before integration and other levels.
