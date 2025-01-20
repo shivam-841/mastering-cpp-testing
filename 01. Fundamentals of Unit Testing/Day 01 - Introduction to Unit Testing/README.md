@@ -36,6 +36,8 @@ Unit testing is the first level of testing in software development, typically co
 3. System Testing
 4. Acceptance Testing
 
+![image](https://github.com/user-attachments/assets/080fbc89-2b28-4c6c-8449-51760fde2e6d)
+
 ## Unit Testing Techniques
 
 Unit testing involves various techniques to ensure comprehensive testing:
