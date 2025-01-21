@@ -49,9 +49,6 @@ Test-Driven Development (TDD) is a software development methodology where tests 
 - [GeeksforGeeks - Test Driven Development (TDD)](https://www.geeksforgeeks.org/test-driven-development-tdd/)  
 - [YouTube - Test Driven Development (TDD) Explanation](https://www.youtube.com/watch?v=h26wrTxF94k)
 
-Certainly! Here's a **README.md** file formatted in Markdown with the full code and instructions:
-
-```markdown
 # **Test-Driven Development (TDD) in C++ with Google Test (GTest)**
 
 ## **Overview**
@@ -63,7 +60,6 @@ This repository demonstrates the process of implementing **Test-Driven Developme
 3. [Test-Driven Development (TDD) Setup: Resolving Build Issues with Google Test (GTest)](#test-driven-development-tdd-setup-resolving-build-issues-with-google-test-gtest)
 4. [Conclusion](#conclusion)
 
----
 
 ## **Prerequisites**
 Before you begin, ensure that the following tools and libraries are installed:
@@ -82,7 +78,6 @@ sudo apt-get install libgtest-dev
 sudo apt-get install cmake
 ```
 
----
 
 ## **Steps to Implement TDD in C++**
 
@@ -250,9 +245,4 @@ You can now run the test executable:
 
 We successfully set up a **Test-Driven Development (TDD)** environment in C++ using **Google Test**, and resolved issues related to conflicting library versions (`libstdc++` and `libcurl`). This process ensures that the code is well-tested and built correctly, and helps avoid future compatibility issues.
 
-If you encounter additional issues or have questions, feel free to reach out for assistance.
-
----
-```
-
-This **README.md** provides a complete overview of the steps to set up and use **Test-Driven Development (TDD)** with **Google Test (GTest)**, as well as resolving common build issues related to conflicting libraries (`libstdc++` and `libcurl`). Simply copy and paste the above content into a `README.md` file in your project directory.
+This **README.md** provides a complete overview of the steps to set up and use **Test-Driven Development (TDD)** with **Google Test (GTest)**, as well as resolving common build issues related to conflicting libraries (`libstdc++` and `libcurl`)
