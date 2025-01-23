@@ -177,4 +177,3 @@ sqlite3 users.db
 g++ main.cpp -o output -lsqlite3
 ```
 
-# Writing Unit Test Cases
