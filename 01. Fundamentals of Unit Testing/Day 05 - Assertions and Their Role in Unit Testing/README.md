@@ -42,7 +42,6 @@ Testing frameworks like **Google Test** provide assertions to validate condition
 
 
 
-```markdown
 # Documentation for the Example Project with Google Test and Google Mock Integration
 
 This documentation provides a comprehensive guide for setting up and using Google Test (gtest) and Google Mock (gmock) in your project, as well as explaining the structure and functionality of the provided code.
@@ -228,3 +227,4 @@ add_test(NAME ExampleTest COMMAND ut_example)
 
 This project demonstrates how to integrate Google Test and Google Mock into a C++ project for unit testing. By following this documentation, you should be able to set up and test your own code with mock dependencies, enabling you to perform unit testing more effectively.
 ```
+
