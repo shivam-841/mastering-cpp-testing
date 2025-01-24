@@ -226,5 +226,3 @@ add_test(NAME ExampleTest COMMAND ut_example)
 ## Conclusion
 
 This project demonstrates how to integrate Google Test and Google Mock into a C++ project for unit testing. By following this documentation, you should be able to set up and test your own code with mock dependencies, enabling you to perform unit testing more effectively.
-```
-
