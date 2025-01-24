@@ -41,7 +41,6 @@ Testing frameworks like **Google Test** provide assertions to validate condition
 - Use **`EXPECT_*`** when you want the test to continue even if one of the assertions fails. This is useful when you want to check multiple conditions but don't want the failure of one to prevent other checks from being evaluated.
 
 
-Here is the markdown for the documentation you provided:
 
 ```markdown
 # Documentation for the Example Project with Google Test and Google Mock Integration
@@ -229,5 +228,3 @@ add_test(NAME ExampleTest COMMAND ut_example)
 
 This project demonstrates how to integrate Google Test and Google Mock into a C++ project for unit testing. By following this documentation, you should be able to set up and test your own code with mock dependencies, enabling you to perform unit testing more effectively.
 ```
-
-This markdown preserves the structure and content you provided while ensuring proper formatting for readability in a markdown environment. Let me know if you'd like to make any changes!
