@@ -4,6 +4,7 @@
 
 using ::testing::Return;
 
+Example *example = nullptr;
 // Test Case 1
 TEST(ExampleTest, AddTest) {
     Mock_Example = new MockExample();
@@ -20,6 +21,11 @@ TEST(ExampleTest, MultiplyTest) {
     EXPECT_EQ(Mock_Example->multiply(3, 4), 12);
 }
 
+TEST(ExampleTest, Test001) {
+    example = new Example();
+    int result = example->multiply(5,0);
+    EXPECT_EQ(result,5);
+}
 // Main function to initialize and run all tests
 int main(int argc, char **argv) {
     ::testing::InitGoogleTest(&argc, argv);

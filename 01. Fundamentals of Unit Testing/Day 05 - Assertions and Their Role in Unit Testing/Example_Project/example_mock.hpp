@@ -17,12 +17,5 @@ public:
 
 MockExample* Mock_Example = nullptr;
 
-int Example :: add(int a, int b){
-    return Mock_Example -> add(a,b);
-}
-
-int Example :: multiply(int a, int b){
-    return Mock_Example -> multiply(a,b);
-}
 
 #endif 

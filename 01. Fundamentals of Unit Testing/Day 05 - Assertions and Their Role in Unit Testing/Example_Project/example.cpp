@@ -5,5 +5,6 @@ int Example::add(int a, int b) {
 }
 
 int Example::multiply(int a, int b) {
+
     return a * b;
 }
